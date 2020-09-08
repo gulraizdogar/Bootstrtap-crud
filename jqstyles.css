@@ -1,0 +1,14 @@
+.recipe{
+    border-bottom:2px dashed blue;
+    margin-bottom: 5px;
+    background-color:lightgray;
+}
+.title{
+    margin-bottom: 2px;
+    background-color: lightgreen;
+}
+.api{
+    margin-bottom: 3px; 
+    text-align: center;
+    background-color: rgb(213, 245, 187);
+}
